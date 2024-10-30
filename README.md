@@ -5,7 +5,7 @@
   <img src="assets/Introduction_Diagramm.png" width="50%" />
 </p>
 
-Official implementation of:  **A Comparison of Prompt Engineering Techniques for Task Planning and Execution in Service Robotics** by Jonas Bode, Bastian Pätzold, Raphael Memmesheimer and Sven Behnke, IROS 2024 (under review). 
+Official implementation of:  **A Comparison of Prompt Engineering Techniques for Task Planning and Execution in Service Robotics** by Jonas Bode, Bastian Pätzold, Raphael Memmesheimer and Sven Behnke, published at Humanoids 2024. 
 
 ## Installation
 
